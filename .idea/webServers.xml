@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f31e2ff9-1972-4f84-8065-15e8e49047b2" name="overfitover" url="http://192.168.1.20">
+        <fileTransfer host="192.168.1.20" port="20001" rootFolder="/media/disk2/overfitover/roboproject" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="20001" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
